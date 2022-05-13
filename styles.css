@@ -1,0 +1,18 @@
+* {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.image-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+#resto-pic {
+  width: 50%;
+  height: auto;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
